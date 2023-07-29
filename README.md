@@ -7,10 +7,13 @@ To get this repository, run the following command inside your git enabled termin
 ```bash
 $ https://github.com/kbagwari035/django_todo.git
 ```
-You need to install pip for install virtual environment
+You need to install pip for first
+
 For Debian based
 ```bash
 $ sudo apt-get install python3-pip
+
+
 For Redhat Based
 ````bash
 $ sudo yum install pyhon3-pip
