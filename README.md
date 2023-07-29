@@ -20,9 +20,7 @@ $ sudo yum install pyhon3-pip
 Now you need to install virtual environment
 ```bash
 $ sudo pip install virtualenv
-For Redhat Based
-````bash
-$ sudo yum install virtualenv
+```
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
