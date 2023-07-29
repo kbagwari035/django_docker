@@ -7,7 +7,8 @@ To get this repository, run the following command inside your git enabled termin
 ```bash
 $ https://github.com/kbagwari035/django_todo.git
 ```
-You need to install pip for first
+You need to install pip first
+
 For Debian based
 ```bash
 $ sudo apt-get install python3-pip
