@@ -21,12 +21,30 @@ You need to install virtual environment
 ```bash
 $ sudo pip install virtualenv
 ```
+```bash
 $ mkdir env
+```
+```bash
 $ virtualenv -p python3 env
+```
+```bash
 $ source env/bin/activate
+```
+```bash
 $ cp ~/django_todo.git/* env
+```
+```bash
 $ cd env
+```
+```bash
 $ python manage.py makemigrations
+```
+```bash
 $ python manage.py migrate
+```
+```bash
 $ python manage.py createsuperuser
+```
+```bash
 $ nohop python manage.py runserver 0.0.0.0:8080 &
+```
