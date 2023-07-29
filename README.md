@@ -6,6 +6,7 @@ A simple todo app built with django
 To get this repository, run the following command inside your git enabled terminal
 ```bash
 $ https://github.com/kbagwari035/django_todo.git
+```
 
 You need to install pip for first
 
