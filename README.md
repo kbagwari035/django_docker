@@ -13,11 +13,10 @@ For Debian based
 ```bash
 $ sudo apt-get install python3-pip
 ```
-
-
 For Redhat Based
-````bash
+```bash
 $ sudo yum install pyhon3-pip
+```
 Now you need to install virtual environment
 ```bash
 $ sudo pip install virtualenv
