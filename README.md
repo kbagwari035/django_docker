@@ -7,7 +7,19 @@ To get this repository, run the following command inside your git enabled termin
 ```bash
 $ https://github.com/kbagwari035/django_todo.git
 ```
-You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
+You need to install pip for install virtual environment
+For Debian based
+```bash
+$ sudo apt-get install python3-pip
+For Redhat Based
+````bash
+$ sudo yum install pyhon3-pip
+Now you need to install virtual environment
+```bash
+$ sudo pip install virtualenv
+For Redhat Based
+````bash
+$ sudo yum install virtualenv
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
